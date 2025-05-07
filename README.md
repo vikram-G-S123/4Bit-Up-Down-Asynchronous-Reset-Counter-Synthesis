@@ -6,7 +6,6 @@ Synthesize 4Bit-Up-Down-Asynchronous-Reset-Counter design using Constraints and 
 
 ## Tool Required:
 
-
 Functional Simulation: Incisive Simulator (ncvlog, ncelab, ncsim)
 
 Synthesis: Genus
@@ -16,6 +15,9 @@ Synthesis: Genus
 Synthesis requires three files as follows,
 
 ◦ Liberty Files (.lib)
+
+![Screenshot 2025-04-22 181212](https://github.com/user-attachments/assets/ebd85a3f-7a9d-4e78-9136-e4239ac8e979)
+
 
 ◦ Verilog/VHDL Files (.v or .vhdl or .vhd)
 
