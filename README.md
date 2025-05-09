@@ -1,4 +1,3 @@
-![Screenshot 2025-05-09 101423](https://github.com/user-attachments/assets/7392650a-d963-4427-8a3d-ee22920dec1a)# 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
 
 ## Aim:
 
