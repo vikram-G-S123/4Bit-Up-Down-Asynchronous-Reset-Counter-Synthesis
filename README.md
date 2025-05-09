@@ -1,4 +1,4 @@
-# 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
+![Screenshot 2025-05-09 101423](https://github.com/user-attachments/assets/7392650a-d963-4427-8a3d-ee22920dec1a)# 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
 
 ## Aim:
 
@@ -190,7 +190,8 @@ used.
 
 #### Timing Report: 
 
-![Screenshot 2025-05-07 210509](https://github.com/user-attachments/assets/912972ec-ca84-454d-a890-ef5bdfbb7484)
+![Screenshot 2025-05-09 101423](https://github.com/user-attachments/assets/a2f41aae-82e2-4c71-b59f-2bf982509dcc)
+
 
 #### Result: 
 
